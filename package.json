@@ -1,0 +1,24 @@
+{
+  "name": "base-express-project",
+  "version": "1.0.0",
+  "description": "the base for a express api that has all the necacery things to run on the bruvland panel or snakecraft hosting servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruvland/base-express-project.git"
+  },
+  "author": "404invalid-user (https://invalid-user)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bruvland/base-express-project/issues"
+  },
+  "homepage": "https://github.com/bruvland/base-express-project#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  }
+}
